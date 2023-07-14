@@ -10,7 +10,7 @@
   ##  
 
 <div style="displayinline> 
-  <a href = "mailto:contatolaryssapatez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:contatolaryssapatez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" alt="Laryssa" height="150" width="150" src="https://media.discordapp.net/attachments/1129211461479178343/1129216580648181780/hi.gif.gif?width=606&height=606">
 </div>
 
