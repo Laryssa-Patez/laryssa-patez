@@ -1,4 +1,4 @@
-### Hi There 👋
+### Hi there 👋
 
 - 🌱 Estudando HTML e CSS
 
