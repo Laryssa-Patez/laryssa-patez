@@ -5,9 +5,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div> 
-
 <img align="right" alt="Laryssa" height="150" width="150" src="https://media.discordapp.net/attachments/1129211461479178343/1129216580648181780/hi.gif.gif?width=606&height=606">
+</div> 
 
 #
 <div style="display: inline_block"><br>
