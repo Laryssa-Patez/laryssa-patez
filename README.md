@@ -12,6 +12,6 @@ Eu sou a Laryssa, estudante de Ciência da Computação e estou iniciando na pro
 ### 🌱 Estou aprendendo:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,mysql" width="110" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=java,mysql" width="100" alt="My Skills">
 </a>
 
