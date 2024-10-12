@@ -1,5 +1,5 @@
 <p align='left' dir="auto"> 
- <a href="https://www.linkedin.com/in/laryssa-patez-da-silva-6504a0199/">
+ <a href="https://www.linkedin.com/in/laryssa-patez-6504a0199/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="Contato por Linkedin">
 </a>
 <a href="mailto:contatolaryssapatez@gmail.com">
