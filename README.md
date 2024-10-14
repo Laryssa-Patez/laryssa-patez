@@ -10,7 +10,7 @@
 <h1> Hey there 👋 </h1>
 Eu sou a Laryssa, estudante de Ciência da Computação e estou iniciando na programação. Aqui, compartilho projetos que desenvolvi na faculdade e cursos.
 
-### 🌱 Estou aprendendo:
+### 🔧 Ferramentas e tecnologias que utilizo:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,mysql,spring,maven,postman" width="250" alt="My Skills">
