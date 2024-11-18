@@ -2,7 +2,7 @@
  <a href="https://www.linkedin.com/in/laryssa-patez-6504a0199/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" alt="Contato por Linkedin">
 </a>
-<a href="mailto:contatolaryssapatez@gmail.com">
+<a href="mailto:laryssapatez.contato@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="21" alt="Contato por E-mail">
 </a>
 </p>
