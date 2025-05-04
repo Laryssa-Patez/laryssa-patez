@@ -1,6 +1,6 @@
 <p align='left' dir="auto"> 
  <a href="https://www.linkedin.com/in/laryssa-patez-242a45334/">
-    <img src="https://img.icons8.com/m_rounded/512/228BE6/linkedin.png" width="22" alt="Contato por Linkedin">
+    <img src="https://cdn-icons-png.freepik.com/256/15713/15713416.png?semt=ais_hybrid" width="22" alt="Contato por Linkedin">
 </a>
 <a href="https://medium.com/@laryssapatez.contato">
     <img src="https://raw.githubusercontent.com/github/explore/47458ec29cfa03601405a0d64758f7ef23069eb5/topics/medium/medium.png" width="21" alt="Medium">
