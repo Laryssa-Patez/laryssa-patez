@@ -1,13 +1,13 @@
-<h1 align="center">Olá, eu sou a Laryssa Patez 👋</h1>
+<h1 align="center">Hello, I'm Laryssa Patez 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedora Júnior • Estudante de Ciência da Computação</em>
+  <em>Junior Developer • Computer Science Student</em>
 </p>
 
 ---
 
 <p align="center">
-  Aqui você encontrará projetos acadêmicos e estudos em Java, Spring Boot, bancos de dados, Docker, AWS, entre outras ferramentas importantes.
+  Here you will find academic projects and studies in Java, Spring Boot, databases, Docker, AWS, and other important tools.
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 About me
 
-- 💻 Desenvolvedora Júnior na [Lecom](https://www.lecom.com.br/)
-- 🎓 Estudante de Ciência da Computação – 6º semestre
+- 💻 Junior Developer at [Lecom](https://www.lecom.com.br/)
+- 🎓 Computer Science Student – 6th semester
 
-### 📚 Ferramentas e tecnologias que utilizo:
+### 📚 Tools and technologies I use:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,mysql,spring" width="150" alt="My Skills">
