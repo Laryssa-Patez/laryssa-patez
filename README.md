@@ -16,6 +16,6 @@ Eu sou a Laryssa, estudante de Ciência da Computação e estou iniciando na pro
 ### 🔧 Ferramentas e tecnologias que utilizo:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,mysql,spring,maven,postman,docker" width="250" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=java,mysql,spring,maven,docker,postman" width="250" alt="My Skills">
 </a>
 
