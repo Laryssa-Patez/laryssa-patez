@@ -27,7 +27,7 @@
 ### 👩‍💻 About me
 
 - 💻 Junior Developer at [Lecom](https://www.lecom.com.br/)
-- 🎓 Computer Science Student – 6th semester
+- 🎓 Computer Science Student – 7th semester
 
 ### 📚 Tools and technologies I use:
 
